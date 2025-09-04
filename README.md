@@ -18,7 +18,7 @@
 ---
 
 ## 🛠 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=python,dart,ts,flutter,firebase,fastapi,tailwind,figma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,dart,ts,flutter,firebase,fastapi,tailwind,figma,github,sql,r)](https://skillicons.dev)
 
 ---
 
