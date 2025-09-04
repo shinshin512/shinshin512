@@ -12,6 +12,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shinshin512&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🛠 Tech Stack
 - **Languages**: Python, Dart, TypeScript, SQL  
 - **Frameworks & Tools**: Flutter, Firebase, FastAPI, Tailwind  
