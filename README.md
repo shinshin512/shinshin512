@@ -17,10 +17,8 @@
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Python, Dart, TypeScript, SQL  
-- **Frameworks & Tools**: Flutter, Firebase, FastAPI, Tailwind  
-- **Other**: Data Analytics, UI/UX basics, Agile methodology
+## 🛠 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=python,dart,ts,flutter,firebase,fastapi,tailwind,figma,github)](https://skillicons.dev)
 
 ---
 
