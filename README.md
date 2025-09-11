@@ -7,8 +7,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinshin512&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshin512&layout=compact&theme=radical&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=shinshin512&theme=radical&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshin512&theme=radical&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
