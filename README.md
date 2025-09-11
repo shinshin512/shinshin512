@@ -23,4 +23,4 @@
 ---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](www.linkedin.com/in/jidapa-chongvongruk-11964123b)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jidapa-chongvongruk-11964123b)
