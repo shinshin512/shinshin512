@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jidapa Chongvongruk
 
 🎓 Senior in Information and Communication Engineering (ICE) @ Chulalongkorn University  
-🌱 Currently exploring **Business, Design, Data, AI, and Backend Dev**  
+🌱 Currently exploring **Business, UXUI Design, Data, and AI**  
 🌍 Exchange student @ **National Taiwan University (Fall 2025)**  
 
 ---
